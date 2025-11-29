@@ -16,8 +16,10 @@ I don't know how accurate it is to call this a library written in 10 minutes. It
 ###
 
 # how he work architecture
-> vladik_library.py  
+> vladik_library.py
+ 
 library file with 1 def with fractal random generation (using random)  
 
-> test.py  
+> test.py
+
 this file demonstrates how my project works  
